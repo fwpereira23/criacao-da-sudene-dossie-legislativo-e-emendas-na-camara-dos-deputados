@@ -12,6 +12,7 @@ A produção integra a pesquisa de mestrado de **Franklin William Lima Pereira**
 
 | Arquivo | Conteúdo |
 | --- | --- |
+| [Dossie-PL-32-1959.pdf](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1206357&filename=Dossie-PL%2032/1959) | Dossiê original (hospedado pela Câmara dos Deputados)
 | [transcricao-dossie-camara.docx](transcricao-dossie-camara.docx) | Transcrição revisada do dossiê em formato editável. |
 | [transcricao-dossie-camara.pdf](transcricao-dossie-camara.pdf) | Versão da transcrição para consulta. |
 | [emendas-sudene-camara-1a-fase-tramitacao.xlsx](emendas-sudene-camara-1a-fase-tramitacao.xlsx) | Planilha das emendas, dicionário de dados, documentação e cadastro de deputados. |
@@ -26,7 +27,6 @@ A produção integra a pesquisa de mestrado de **Franklin William Lima Pereira**
 
 - O resultado indica a presença do conteúdo da emenda no texto aprovado pela Câmara antes do envio ao Senado; não corresponde necessariamente a uma votação individual da emenda.
 - **AR** identifica apoio regimental expressamente reconhecido. A ausência dessa marca não comprova coautoria intelectual.
-- As siglas partidárias exigem atenção à referência temporal das fontes; não devem ser interpretadas automaticamente como filiação na data de apresentação de cada emenda.
 - Resumos e classificações são instrumentos analíticos. Para conferir decisões e divergências, consulte a documentação e a transcrição.
 
 ## Uso de inteligência artificial
